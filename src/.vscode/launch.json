@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FrequentItemsetMiner",
+            "request": "launch",
+            "mainClass": "filrouge.dbextractor.FrequentItemsetMiner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PlanningProblemTest",
+            "request": "launch",
+            "mainClass": "test.PlanningProblemTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "filrouge.App"
+        }
+    ]
+}
