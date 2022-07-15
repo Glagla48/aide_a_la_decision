@@ -1,11 +1,17 @@
-# Run tests with JUnit :
+# What is this about? 
+Samll project to help deciscion making in medical diagnosis
+
+
+# How to Launch
+
+## Run tests with JUnit :
 	* ant
 	* ant test
 
-# Run tests by main :
+## Run tests by main :
 	* ant test-bymain
 
-# Other available action:
+## Other available action:
 	# Clean : ant clean
 	# Init : ant init (depends on clean)
 	# Compile : ant compile (depends on init)
